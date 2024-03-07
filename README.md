@@ -1,6 +1,6 @@
 ### Hi All 👋
   I am Leon-Hou
-- 🔭 I’m currently working on SAIC
+- 🔭 I’m currently working on Shanghai,China
 - 🌱 I’m currently learning Python & AI
 - 📫 How to reach me: 3234671794@qq.com
 
